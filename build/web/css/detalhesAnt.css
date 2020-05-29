@@ -1,0 +1,11 @@
+
+.caixatexto{
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    margin: 0 auto;
+    position: absolute;
+    border: 0.5px solid black;
+    border-radius: 5px;
+    padding-top: 20px;
+}

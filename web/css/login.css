@@ -1,0 +1,23 @@
+/* 
+    Created on : 25/05/2020, 23:53:34
+    Author     : axtri
+*/
+
+
+ #caixa{
+    width: 400px;
+    height: 220px;
+    text-align: center;
+    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left:-200px;
+    margin-top:-110px;
+    background: #f2f2f2;
+    border-radius: 8px;
+    padding-top: 20px;
+}
+.rodape{
+    padding-top:  90px;
+}

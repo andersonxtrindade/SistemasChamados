@@ -1,0 +1,27 @@
+/* 
+    Created on : 26/05/2020, 00:44:49
+    Author     : axtri
+*/
+
+/* 
+    Created on : 25/05/2020, 23:53:34
+    Author     : axtri
+*/
+
+ #caixa{
+    width: 500px;
+    height: 320px;
+    text-align: center;
+    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left:-250px;
+    margin-top:-160px;
+    background: #f2f2f2;
+    border-radius: 8px;
+    padding-top: 20px;
+}
+body{
+    color: black;
+}

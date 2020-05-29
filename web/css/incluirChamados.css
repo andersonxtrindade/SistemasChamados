@@ -1,0 +1,17 @@
+#caixa{
+    width: 460px;
+    height: 450px;
+    text-align: center;
+    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left:-230px;
+    margin-top:-225px;
+    background: #f2f2f2;
+    border-radius: 8px;
+    padding-top: 20px;
+}
+body{
+    color: black;
+}
